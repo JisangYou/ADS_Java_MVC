@@ -52,7 +52,7 @@ public void main(String[] args) {
 
 
 
-####출처: http://derveljunit.tistory.com/87 [IT를 보고, 듣고, 사색하고]
+#### 출처: http://derveljunit.tistory.com/87 [IT를 보고, 듣고, 사색하고]
 
 
 ## 보충설명
@@ -89,8 +89,8 @@ View와 Model간의 간섭을 피하고 Controller가 중간 관리를 하는 �
 
 
 
-####출처: http://comtk.tistory.com/22 [comtK]
-####출처: http://blog.embian.com/49 [Embian Blog]
+#### 출처: http://comtk.tistory.com/22 [comtK]
+#### 출처: http://blog.embian.com/49 [Embian Blog]
 
 
 ## TODO
