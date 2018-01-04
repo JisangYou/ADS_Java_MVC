@@ -8,6 +8,7 @@
 
 ![MVC](http://cfile3.uf.tistory.com/image/2309334953E48F84158AD5)
 
+### 간단한 예제 코드
 
 - Model : 데이터의 구조
 
@@ -51,7 +52,7 @@ public void main(String[] args) {
 
 
 
-#### 출처: http://derveljunit.tistory.com/87 [IT를 보고, 듣고, 사색하고]
+####출처: http://derveljunit.tistory.com/87 [IT를 보고, 듣고, 사색하고]
 
 
 ## 보충설명
@@ -88,8 +89,8 @@ View와 Model간의 간섭을 피하고 Controller가 중간 관리를 하는 �
 
 
 
-#### 출처: http://comtk.tistory.com/22 [comtK]
-#### 출처: http://blog.embian.com/49 [Embian Blog]
+####출처: http://comtk.tistory.com/22 [comtK]
+####출처: http://blog.embian.com/49 [Embian Blog]
 
 
 ## TODO
@@ -100,7 +101,8 @@ View와 Model간의 간섭을 피하고 Controller가 중간 관리를 하는 �
 
 ## Retrospect
 
-- 처음 접해서 그런지 코드가 왔다갔다 하는 듯한 느낌을 받았으나, 나중에 협업을 위해서는 필요할 것 같다라는 생각은 함.
+- 처음 접해서 그런지 코드가 왔다갔다 하는 듯한 느낌을 받았으나, 나중에 협업을 위해서는 필요할 것 같다라고 생각은 들었다.
+- 다른 디자인 패턴도 공부해보면서, 수많은 프로그래머들이 겪는 문제들 그리고 그것을 해결하기 위한 효율적인 코드 패턴들을 공부한다면 좀더 고급 개발자로 성장할 수 있을 것 같다.
 
 
 ## Output
